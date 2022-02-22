@@ -13,5 +13,5 @@ def average(*args):
         avg=0
     return avg
 print(average(1, 2))
-print(average(6, 2, 2, 3, 4))
+print(average(5, 2, 2, 3, 4))
 print(average())
